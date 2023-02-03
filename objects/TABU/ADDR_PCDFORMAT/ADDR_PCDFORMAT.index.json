@@ -12,6 +12,34 @@
      },
      {
       "key":"COUNTRY",
+      "value":"PL"
+     }
+    ],
+    "hash":"9e/ccZ9YtFoK/rNes0CgYXnNt/Y="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"___"
+     },
+     {
+      "key":"COUNTRY",
+      "value":"SE"
+     }
+    ],
+    "hash":"tjKpzS0VP9TBrGSnVh4kAlDtznU="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"___"
+     },
+     {
+      "key":"COUNTRY",
       "value":"SO"
      }
     ],

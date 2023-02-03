@@ -5,6 +5,16 @@
   [
    {
     "MANDT":"___",
+    "COUNTRY":"PL",
+    "POSTAL_CODE_FORMAT":"DEV"
+   },
+   {
+    "MANDT":"___",
+    "COUNTRY":"SE",
+    "POSTAL_CODE_FORMAT":"NN"
+   },
+   {
+    "MANDT":"___",
     "COUNTRY":"SO",
     "POSTAL_CODE_FORMAT":"HAHA"
    }
