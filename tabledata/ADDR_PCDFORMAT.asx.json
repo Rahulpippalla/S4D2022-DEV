@@ -1,0 +1,13 @@
+[
+ {
+  "table":"ADDR_PCDFORMAT",
+  "data":
+  [
+   {
+    "MANDT":"___",
+    "COUNTRY":"SO",
+    "POSTAL_CODE_FORMAT":"HAHA"
+   }
+  ]
+ }
+]
