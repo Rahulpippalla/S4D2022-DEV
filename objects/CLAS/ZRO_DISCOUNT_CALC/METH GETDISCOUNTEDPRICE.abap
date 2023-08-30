@@ -1,6 +1,6 @@
   METHOD getdiscountedprice.
 
-    "WorkBench Demo for Workshop added comment to the change
+    "WorkBench Demo for Workshop
 
     DATA: lv_cross_ref TYPE num2.
 
