@@ -1,6 +1,6 @@
   METHOD getdiscountedprice.
 
-    "WorkBench Demo
+    "WorkBench Demo - 2
 
     DATA: lv_cross_ref TYPE num2.
     DATA: lv_cross_ref2 TYPE ZDEPENDENCY.
