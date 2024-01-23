@@ -1,6 +1,6 @@
   METHOD getdiscountedprice.
 
-    "WorkBench DEMO
+    "WorkBench DEMO 23/01/24
     DATA: lv_cross_ref TYPE num2.
 
     DATA disc TYPE i.
